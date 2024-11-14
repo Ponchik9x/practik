@@ -1,1 +1,6 @@
-#main.py
+def foo():
+    pass
+
+
+def func():
+    ...
